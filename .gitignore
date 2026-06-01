@@ -27,6 +27,3 @@ Thumbs.db
 # Environment
 .env
 .env.*
-
-/build/
-build/
